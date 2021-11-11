@@ -1,2 +1,2 @@
-# Scorpio
+# Giraffe
 xxx built by substrate
